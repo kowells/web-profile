@@ -78,12 +78,7 @@ section {
     flex: 1;
 }
 
-.hero .image img {
-    width: 200px; /* Atur lebar gambar */
-    height: auto; /* Tinggi otomatis untuk menjaga proporsi */
-    border-radius: 50%; /* Membuat gambar bulat (opsional) */
-    object-fit: cover; /* Memotong gambar secara proporsional */
-}
+
 
 .content {
     max-width: 50%;
